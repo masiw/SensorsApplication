@@ -1,4 +1,4 @@
-package com.woermann.android.sensors;
+package woermann.android.sensors;
 
 import android.Manifest;
 import android.app.Activity;
